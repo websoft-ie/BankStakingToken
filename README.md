@@ -1,4 +1,4 @@
-# Implementing Staking in Solidity
+# Implementing Bank Smart Contract in Solidity
 This repository implements the bank smart contract using ERC20 token standard.
 
 
