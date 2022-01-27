@@ -1,4 +1,5 @@
-# Implementing Staking in Solidity
+# Implementing Bank Staking in Solidity
+This repository implements the bank smart contract described in doc folder.
 
 # What is Staking?
 
