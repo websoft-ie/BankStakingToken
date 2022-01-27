@@ -105,7 +105,7 @@ contract('StakingToken', (accounts) => {
             function timeout(ms) {
                 return new Promise(resolve => setTimeout(resolve, ms));
             }
-            await timeout(12000);
+            await timeout(8000);
 
             await stakingToken.distributeRewards({ from: owner });
             console.log('Staking =====> ' + await stakingToken.stakeOf(user));
